@@ -1,8 +1,8 @@
+import java.awt.image.BufferedImage
 import java.io.File
 import java.nio.file.Files
-import javax.imageio.ImageIO
-import java.awt.image.BufferedImage
 import java.nio.file.Paths
+import javax.imageio.ImageIO
 
 fun main(args: Array<String>) {
     args?.run {
